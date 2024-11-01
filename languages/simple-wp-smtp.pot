@@ -1,0 +1,128 @@
+#, Simple WP SMTP
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simple WP SMTP\n"
+"POT-Creation-Date: 2022-12-14 14:17+0530\n"
+"PO-Revision-Date: 2022-12-14 14:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: /admin/smtp-settings-form.php:8
+msgid "SMTP Settings"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:14
+msgid "Something went wrong please try again."
+msgstr ""
+
+#: /admin/smtp-settings-form.php:33
+msgid "Data saved."
+msgstr ""
+
+#: /admin/smtp-settings-form.php:42
+msgid "To"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:46
+msgid "From Email"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:50
+msgid "From Name"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:54
+msgid "Bcc Email"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:58
+msgid "Replay To Email"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:62
+msgid "SMTP Host"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:66
+msgid "Encryption Type"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:68
+msgid "None"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:69
+msgid "SSL"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:70
+msgid "TLS"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:74
+msgid "Port"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:78
+msgid "Authentication"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:80
+msgid "Yes"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:81
+msgid "No"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:85
+msgid "Username"
+msgstr ""
+
+#: /admin/smtp-settings-form.php:89
+msgid "Password"
+msgstr ""
+
+#: /admin/smtp-test-mail-form.php:5
+msgid "Test Mail"
+msgstr ""
+
+#: /admin/smtp-test-mail-form.php:11
+msgid "Something went wrong please try again."
+msgstr ""
+
+#: /admin/smtp-test-mail-form.php:23
+msgid "Mail sent."
+msgstr ""
+
+#: /admin/smtp-test-mail-form.php:27
+msgid "Something went wrong please check your SMTP details."
+msgstr ""
+
+#: /admin/smtp-test-mail-form.php:36
+msgid "To"
+msgstr ""
+
+#: /admin/smtp-test-mail-form.php:40
+msgid "Subject"
+msgstr ""
+
+#: /admin/smtp-test-mail-form.php:44
+msgid "Message"
+msgstr ""
+
+#: /admin/smtp-test-mail-form.php:48
+msgid "Send"
+msgstr ""
